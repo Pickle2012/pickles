@@ -1,0 +1,83 @@
+
+.header {
+    font: size 50px;
+    color:rgb(32, 184, 211);
+    background-color:rgb(216, 246, 255)
+
+}
+
+.picture {
+
+height: 500px;
+width: 600px;
+
+
+}
+
+.pic {
+
+height: 500px;
+width: 800px
+
+
+}
+
+.refrence {
+
+height: 150px;
+width: 200px;
+
+}
+
+
+.star {
+
+height:200px
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.mountain {
+
+height: 500px;
+
+
+}
+
+
+
+.container {
+
+width: 100px;
+display: flex;
+justify-content: center;
+
+
+}
+
+
+.title {
+
+text-align: center;
+
+color:brown;
+
+font-size: 150px;
+
+}
+
+
+.poster {
+
+    background-color: black
+}
