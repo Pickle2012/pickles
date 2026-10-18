@@ -49,7 +49,7 @@ height:200px
 
 .mountain {
 
-height: 500px;
+height: 490px;
 
 
 }
@@ -70,9 +70,10 @@ justify-content: center;
 
 text-align: center;
 
-color:brown;
+color:rgb(209, 75, 52);
 
-font-size: 150px;
+font-size: 100px;
+
 
 }
 
@@ -80,4 +81,15 @@ font-size: 150px;
 .poster {
 
     background-color: black
+}
+
+.text {
+
+text-align: center;
+
+color:rgb(240, 227, 224);
+
+font-style:oblique
+
+
 }
