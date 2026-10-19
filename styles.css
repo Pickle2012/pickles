@@ -50,6 +50,7 @@ height:200px
 .mountain {
 
 height: 490px;
+border: 2px solid rgb(92, 0, 0)
 
 
 }
@@ -74,6 +75,9 @@ color:rgb(209, 75, 52);
 
 font-size: 100px;
 
+margin: 40px
+
+
 
 }
 
@@ -89,7 +93,24 @@ text-align: center;
 
 color:rgb(240, 227, 224);
 
-font-style:oblique
+font-style:oblique;
+
+border: 2px dotted white;
+
+margin: 70px;
+
+padding: 20px;
+
+
+}
+
+
+.random text {
+
+font-size: 50px;
+padding: 20px 20px 20px 20px;
+border: 20px solid rgb(32, 181, 211)
+
 
 
 }
