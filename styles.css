@@ -1,10 +1,16 @@
 
 .header {
+
+
+    text-align: center;
     font: size 50px;
     color:rgb(32, 184, 211);
     background-color:rgb(216, 246, 255)
+    
 
 }
+
+
 
 .picture {
 
@@ -39,11 +45,77 @@ height:200px
 
 
 
+.t {
+
+color:rgb(16, 165, 128) ;
+
+padding: 20px;
+
+background-color:rgb(253, 252, 157)
+
+
+}
+
+
+.t2 {
+
+text-align: center;
+
+font: size 500px;
+
+color:rgb(16, 165, 128);
+
+background-color:rgb(253, 252, 157)
+
+}
+
+.bird {
+
+height: 300px;
+width:300px;
+border-radius: 15px;
+object-fit: cover
+
+}
+
+
+.link {
+
+
+text-align:center;
+
+font-size: 50px;
+
+
+color:rgb(32, 184, 211)
 
 
 
+}
+
+.link2 {
 
 
+text-align:center;
+
+font-size: 50px;
+
+color:rgb(231, 82, 127)
+
+
+}
+
+.link3 {
+
+
+text-align:center;
+
+font-size: 50px;
+
+color:rgb(235, 194, 81)
+
+
+}
 
 
 
